@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/DressingRoom.unity
     guid: c61890345763e9142b8120f89ec6bb3c
+  - enabled: 1
+    path: Assets/Scenes/StartingHallway.unity
+    guid: 9b26a8327ec9312479a047e66f7b5654
   m_configObjects: {}

@@ -209,7 +209,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7f4feae0775c55042b9ba435612b954d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneToLoad: testscene
+  sceneToLoad: StartingHallway
   interactionDistance: 2
 --- !u!1001 &585483930
 PrefabInstance:
