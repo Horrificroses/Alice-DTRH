@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/testscene.unity
     guid: 491fefc2d2f74a74d9669e2ce5a56e14
+  - enabled: 1
+    path: Assets/Scenes/DressingRoom.unity
+    guid: c61890345763e9142b8120f89ec6bb3c
   m_configObjects: {}
